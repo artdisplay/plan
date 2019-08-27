@@ -17,5 +17,6 @@
 
 ### 支付已经相关
 1.    域名需要备案
-2.    申请材料，参考微信：（https://pay.weixin.qq.com/static/applyment_guide/applyment_detail_website.shtml） 支付宝：（https://docs.open.alipay.com/203）
+2.    网站是否需要支持https
+3.    申请材料，参考微信：（https://pay.weixin.qq.com/static/applyment_guide/applyment_detail_website.shtml） 支付宝：（https://docs.open.alipay.com/203）
 
