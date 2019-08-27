@@ -15,7 +15,7 @@
 2.    第二阶段：所有功能开发完成并开始测试（预计20天左右）
 3.    第三阶段：测试网站所有功能并部署线上正式运营（预计十天左右）
 
-### 支付已经相关
+### 支付以及相关
 1.    域名需要备案
 2.    网站是否需要支持https
 3.    申请材料，参考微信：（https://pay.weixin.qq.com/static/applyment_guide/applyment_detail_website.shtml） 支付宝：（https://docs.open.alipay.com/203）
